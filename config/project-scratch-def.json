@@ -1,12 +1,4 @@
 {
   "orgName": "Adi Sundaram Company",
   "edition": "Developer",
-  "orgPreferences": {
- "enabled": [
-   "S1DesktopEnabled"
- ],
- "disabled": [
-   "ChatterEnabled"
- ]
-  }
 }
