@@ -25,4 +25,3 @@ script:
 - sfdx force:org:display -u myciorg
 - sfdx force:source:push -u myciorg
 - sfdx force:apex:test:run -u myciorg --wait 10
-- sfdx force:org:delete -u myciorg -p
